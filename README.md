@@ -10,7 +10,7 @@ This project is used to learn basics of HTML by creating a personal website.
 
 ## Usage
 
-```python
+<!-- ```python
 import foobar
 
 # returns 'words'
@@ -21,7 +21,7 @@ foobar.pluralize('goose')
 
 # returns 'phenomenon'
 foobar.singularize('phenomena')
-```
+``` -->
 
 <!-- Place images here -->
 
