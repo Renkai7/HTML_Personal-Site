@@ -26,3 +26,9 @@ foobar.singularize('phenomena')
 <!-- Place images here -->
 
 ![Image Placeholder](image.png)
+
+<!-- Lessons in code -->
+
+## Lessons Learned
+
+- `em` should always be used over `i` tag for better semantics
