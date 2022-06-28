@@ -15,6 +15,7 @@ This project is used to learn basics of HTML by creating a personal website.
 - HTML5 tags: `<em>`
 - SEO and `Alt` in `<img>` tag
 - `<table>`, `<img>`
+- Create forms `<form>`
 
 ## Lessons Learned
 
