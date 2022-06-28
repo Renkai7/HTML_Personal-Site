@@ -38,3 +38,9 @@ foobar.singularize('phenomena')
 	<em>Founder of the Phantom Thieves <strong>of Hearts</strong>.</em>
 </p>
 ```
+
+- `Alt` in `<img>` tag helps with SEO; it helps to have good keywords in `Alt`
+
+```html
+<img src="profile_picture.png" alt="Ren Tsukino profile picture" />
+```
