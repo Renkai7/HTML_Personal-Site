@@ -31,4 +31,10 @@ foobar.singularize('phenomena')
 
 ## Lessons Learned
 
-- `em` should always be used over `i` tag for better semantics
+- `em` should always be used over `i` tag for better semantics <br>
+
+```html
+<p>
+	<em>Founder of <strong>Meikono</strong>.</em>
+</p>
+```
