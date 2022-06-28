@@ -35,6 +35,6 @@ foobar.singularize('phenomena')
 
 ```html
 <p>
-	<em>Founder of <strong>Meikono</strong>.</em>
+	<em>Founder of the Phantom Thieves <strong>of Hearts</strong>.</em>
 </p>
 ```
