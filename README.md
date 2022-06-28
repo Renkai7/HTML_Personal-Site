@@ -10,6 +10,12 @@ This project is used to learn basics of HTML by creating a personal website.
 
 <!-- Lessons in code -->
 
+## Topics
+
+- HTML5 tags: `<em>`
+- SEO and `Alt` in `<img>` tag
+- `<table>`, `<img>`
+
 ## Lessons Learned
 
 - `em` should always be used over `i` tag for better semantics <br>
