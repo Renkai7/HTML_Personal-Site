@@ -5,7 +5,7 @@
 <!-- Example of project description -->
 
 This project is used to learn basics of HTML by creating a personal website. <br>
-<strong>Section 3 and 4 of HTML Course</strong> <br>
+<strong>Section 2 and 3 of HTML Course</strong> <br>
 ![Image Placeholder](index-page_screenshot.PNG)
 
 <!-- Lessons in code -->
